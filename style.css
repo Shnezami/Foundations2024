@@ -2,7 +2,7 @@ body{
     background-color: green;
 
 }
-p{
+p {
     font-size: 36px;
     color: rgb(232, 127, 144);
     text-align: center;
@@ -16,3 +16,18 @@ p{
     font-size: 24px;
 
 }
+a {
+    text-decoration: underline;
+    font-size: 30px;
+    color: palevioletred;
+
+
+}
+ul {
+    list-style-type: Number;
+}
+
+
+
+
+
