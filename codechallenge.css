@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(158, 150, 150);
+}
+p {
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.sivCode {
+    background-color: bisque;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 100vmax;
+}
+.asyleeCode {
+    font-size: 20px;
+    background-color: aqua;
+    width: 100vmax;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+a {
+    color: white;
+}
+
+ol {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    list-style: none;
+}
