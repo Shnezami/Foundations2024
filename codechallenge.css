@@ -34,3 +34,12 @@ ol {
     justify-content: space-around;
     list-style: none;
 }
+.grid-container {
+    font-display: grid;
+    grid-template-columns: 100px 200px 150px; /* three columns with spesific sizes */
+    grid-template-rows: 50px 100px; /* two rows with spesific sizes */
+}
+
+
+
+
